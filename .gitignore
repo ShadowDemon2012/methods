@@ -1,1 +1,4 @@
-/methods.iml
+/.idea/
+*.iml
+*.class
+/out/
